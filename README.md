@@ -12,7 +12,7 @@ Como os usuários podem começar a usar o projeto
 
 Entrega Final:
 Mapa mental e apresentação
-
+https://notebooklm.google.com/notebook/2e32478a-50de-429a-940e-c01ec2830f22
 
 Prompts:
 Ensine-me a diferença entre arquitetura e design de software.
